@@ -1,0 +1,32 @@
+{
+  "template": "https://github.com/costastf/python_project.git",
+  "commit": "5e7a9ebf062313dee14f2dd5c5117df76adef416",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_type": "lib",
+      "full_name": "Costas Tyfoxylos",
+      "email": "asork@gmail.com",
+      "repo_name": "Wiki Series Asorkun",
+      "main_branch_name": "main",
+      "project_slug": "wikiseriesasorkunlib",
+      "project_short_description": "This my project",
+      "git_url": "https://github.com/alisorkuncuk/wikiseriesasorkunlib",
+      "pypi_repository": "https://upload.pypi.org/legacy/",
+      "gitlab_runner_image": "IMAGE_WITH_PYTHON39_AND_PIPENV",
+      "gitlab_runner_tags": "[docker]",
+      "tags": "tv series",
+      "development_status": "Alpha",
+      "compatible_versions": "3.9",
+      "documentation_url": "https://wikiseriesasorkunlib.readthedocs.org/en/latest",
+      "release_date": "26-04-2023",
+      "year": "2023",
+      "license": "MIT",
+      "_extensions": [
+        "jinja2_time.TimeExtension"
+      ],
+      "_template": "https://github.com/costastf/python_project.git"
+    }
+  },
+  "directory": null
+}
