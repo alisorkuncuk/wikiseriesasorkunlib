@@ -24,3 +24,6 @@ toml = ">=0.1,<1.0"
 
 
 [packages]
+
+requests = "*"
+bs4 = "*"
